@@ -7,7 +7,6 @@ This is a tool which can win data without playing dialog Mega Run Game.
          $ pkg install python   
          $ pkg install git
          $ pkg install toilet 
-         $ pkg install pip3 
          $ git clone https://github.com/AnnoyCreations/MegaRun.git
          $ cd MegaRun
          $ python game.py
